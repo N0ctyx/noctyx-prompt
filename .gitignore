@@ -1,0 +1,16 @@
+# Navigate to your project
+cd noctyx-prompt
+
+# Create .gitignore
+cat > .gitignore << 'EOF'
+# Noctyx Hacker Prompt .gitignore
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+EOF
+
+# Verify
+cat .gitignore
