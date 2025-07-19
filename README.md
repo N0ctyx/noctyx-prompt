@@ -11,7 +11,7 @@ Personalizable cyberpunk-themed Bash prompt with:
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/noctyx-prompt.git
+git clone https://github.com/N0ctyx/noctyx-prompt.git
 cd noctyx-prompt
 chmod +x install.sh
 ./install.sh
